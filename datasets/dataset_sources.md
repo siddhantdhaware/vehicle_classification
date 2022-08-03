@@ -1,29 +1,19 @@
-# colors_1 dataset - VCoR (Vehicle Color Recognition) Dataset
+# A Dataset Containing Tiny and Low Quality Images for Vehicle Classification
 
-link: https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset
+link: https://zenodo.org/record/6634554
 
-Information: This is a dataset from Kaggle containing 10,000 plus image samples divided in 15 colour classes. Images were sourced from Google. Images in the dataset are of various resolutions and sizes.
+Information: This is a dataset from Zenodo for vehicle classification. The images of vehicles are grouped in six classes: Bike, Car, Juggernaut, Minibus, Pickup, and Truck. There are 800 vehicles for each class and all images are of 100*100 resolution.
 
-License: Public Access
+Dataset size: 29 MB, Contains 4806 Images
 
-# colors_2 dataset - vehicle color recognition dataset by Chen
+License: Creative Commons Attribution 4.0 International
 
-link_1: https://github.com/handong1587/handong1587.github.io/blob/master/_posts/computer_vision/2015-09-24-datasets.md
+# Vehicle Type Image Dataset (Version 2): VTID2
 
-(link_1 contains multiple links which includes the link to the colors dataset. The link may not work.)
+link: https://data.mendeley.com/datasets/htsngg9tpc
 
-link_2: https://drive.google.com/file/d/1n8Ja6g5eO82mbRlsTXkdVXNMPpApLd5K/view
+Information: This dataset from Mendeley Data contains 4352 images split in five classes: sedans, pickups, SUVs, hatchbacks, and others(bikes). The Images are of various resolutions.
 
-(link_2 is a google drive link that works and it is the one I have used to download the dataset)
+Dataset size: 194 MB, Containing 4352 Images
 
-Information: This is a dataset used by researchers in the 2015 IEEE paper 'Vehicle Color Classification Under Different Lighting Conditions Through Color Correction'. This dataset contains over 15,000 images of various resolutions in 8 color classes.
-
-License: Public Access
-
-# vehicle_type dataset - Vehicle Classification - Dataset
-
-link: https://www.kaggle.com/datasets/maciejgronczynski/vehicle-classification-dataset
-
-Information: This is a public dataset from Kaggle containg 12000 images of various resolutions split in three classes of 400 images each: cars, trains, and planes.
-
-License: CC0: Public Domain
+License: Creative Commons Attribution 4.0 International
