@@ -1,3 +1,5 @@
+# The code to plot the graphs below is adapted from Francis Collet Deep Learning book
+
 from matplotlib import pyplot as plt
 
 def plot_loss(history):
