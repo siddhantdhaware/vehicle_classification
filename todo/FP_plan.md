@@ -35,6 +35,8 @@ Code
 30th
   - Experiment with models to get the highest accuracy possible
   - Write perfect helper functions
+  - Explore datasets output images of what the dataset looks like
+    - also put split folders code in this dataset
   - Ensure all notebooks are perfectly formatted and code is commented
 
 ################################################################################
