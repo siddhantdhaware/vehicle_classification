@@ -1,4 +1,6 @@
-# A Dataset Containing Tiny and Low Quality Images for Vehicle Classification
+# Main Dataset
+
+## A Dataset Containing Tiny and Low Quality Images for Vehicle Classification
 
 link: https://zenodo.org/record/6634554
 
@@ -8,7 +10,9 @@ Dataset size: 29 MB, Contains 4800 Images
 
 License: Creative Commons Attribution 4.0 International
 
-# Vehicle Type Image Dataset (Version 2): VTID2
+# Secondary dataset for transfer learning
+
+## Vehicle Type Image Dataset (Version 2): VTID2
 
 link: https://data.mendeley.com/datasets/htsngg9tpc
 
