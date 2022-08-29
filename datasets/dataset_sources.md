@@ -16,8 +16,8 @@ License: Creative Commons Attribution 4.0 International
 
 link: https://data.mendeley.com/datasets/htsngg9tpc
 
-Information: This dataset from Mendeley Data contains 4352 images split in five classes: sedans, pickups, SUVs, hatchbacks, and others(bikes). The Images are of various resolutions.
+Information: This dataset from Mendeley Data contains 4356 images split in five classes: sedans, pickups, SUVs, hatchbacks, and others(bikes). The Images are of various resolutions.
 
-Dataset size: 194 MB, Containing 4352 Images
+Dataset size: 194 MB, Containing 4356 Images
 
 License: Creative Commons Attribution 4.0 International
