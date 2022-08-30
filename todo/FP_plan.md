@@ -2,7 +2,7 @@ Code
 
 28th
 
-  - Reoorganise the whole codebase
+  - Reorganise the whole codebase
     - Baseline, beat baseline, overfitting
     - Replicate the paper and get final test accuracy
     - Tune hyperparameters (REMOVE last dense layer)
@@ -52,7 +52,7 @@ Code
     1 Fix images and table referencing and linking
       - There should be a figure and table number followed by the caption of the image and table. The figures and tables should be correctly referenced in the text.
 
-    2 Ensure page limit by putting non-essential images and tables below, and writing more concisely.
+    2 Ensure page limits by putting non-essential images and tables below, and writing more concisely.
       - You have exceeded the page limit. Maximum 3 pages are allowed for Implementation and evaluation chapters each. You used 12 pages for implementation and exceeded page limit for evaluation too. You lost marks because of not following the guideline.
 
     3. Fix references
@@ -64,7 +64,7 @@ Code
 
   - Fix report (contd)
 
-    4. Modify design section to increase space for work plan
+    4. Modify design section to increase space for work-plan
       - Work plan has not been explained in sufficient detail.
 
     5. Modify introduction to give overview of whole report to readers
@@ -76,5 +76,5 @@ Code
 ################################################################################
 
 2nd
-  - Re-read and proof read report before finalizing it.
+  - Re-read and proof-read report before finalizing it.
   - Make video
