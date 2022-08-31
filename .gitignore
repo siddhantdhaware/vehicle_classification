@@ -1,6 +1,8 @@
-datasets/data
 .DS_Store
 .ipynb_checkpoints
 .vscode
 __pycache__/
 models/
+
+datasets/data/raw/htsngg9tpc-2
+datasets/data/split
