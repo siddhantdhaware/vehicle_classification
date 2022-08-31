@@ -55,4 +55,4 @@ The `notebooks/5_transfer_learning.ipynb` file runs the state-of-the-art VGG16 m
 
 > The `helpers/plot_graphs.py` is a python script which plots training and validation accuracy and loss graphs, and it is used in all the models in the notebooks in the `notebooks/` folder.
 
-> The `html_exports/` folder contains the **html** exports of the notebooks, and all the work can be viewed without having to run any of the notebooks.
+> The `html_exports/` folder contains the **html** exports of the notebooks, and all the work can be viewed there.
