@@ -31,28 +31,28 @@ The key objective is to create a small model that can rival larger models and va
 
 **Secondary dataset (only used for the transfer learning notebook):** [https://data.mendeley.com/datasets/htsngg9tpc](https://data.mendeley.com/datasets/htsngg9tpc)
 
-The *datasets/dataset_sources.md* contains detailed information about both the datasets.
+The `datasets/dataset_sources.md` contains detailed information about both the datasets.
 
-The *1_methodology_getDS.ipynb* notebook contains information about the problem, establishes the measure of success, evaluation protocol, and other parameters that will be used. It also contains a code cell which when ran, downloads the secondary dataset to the *datasets/data/raw* folder. The primary dataset is already in the repository and can be found in *datasets/data/raw*.
+The `1_methodology_getDS.ipynb` notebook contains information about the problem, establishes the measure of success, evaluation protocol, and other parameters that will be used. It also contains a code cell which when ran, downloads the secondary dataset to the `datasets/data/raw` folder. The primary dataset is already in the repository and can be found in `datasets/data/raw`.
 
-The *2_explore_split_datasets.ipynb* file explores the datasets and their various features, and also splits them in train, test, and validation sets.
+The `2_explore_split_datasets.ipynb` file explores the datasets and their various features, and also splits them in train, test, and validation sets.
 
 ### Deep Learning Workflow used in this project
 
 **The six notebooks in the *notebooks/* folders run various models**:
 
-The baseline and overfitting models can be found in the *notebooks/1_baseline_and_overfitting.ipynb* file.
+The baseline and overfitting models can be found in the `notebooks/1_baseline_and_overfitting.ipynb` file.
 
-In the *notebooks/2_replicate_paper.ipynb* file, I have tried to replicate a state-of-the-art model proposed by researchers.
+In the `notebooks/2_replicate_paper.ipynb` file, I have tried to replicate a state-of-the-art model proposed by researchers.
 
-The project then entails tuning model architectures and hyperparameters, along with experimenting with various advanced techniques like data augmentation, residuals and batch normalization, and image processing using TensorFlow. The *notebooks/3_tuning_model_parameters.ipynb* file contains a progressive history of the experimentation, and reaching the final models.
+The project then entails tuning model architectures and hyperparameters, along with experimenting with various advanced techniques like data augmentation, residuals and batch normalization, and image processing using TensorFlow. The `notebooks/3_tuning_model_parameters.ipynb` file contains a progressive history of the experimentation, and reaching the final models.
 
-The *notebooks/4_test_final_models.ipynb* file contains the final test accuracies for the two best models.
+The `notebooks/4_test_final_models.ipynb` file contains the final test accuracies for the two best models.
 
-The *notebooks/5_transfer_learning.ipynb* file details the experiment with using transfer learning, utilizing an already trained model (trained on the secondary dataset).
+The `notebooks/5_transfer_learning.ipynb` file details the experiment with using transfer learning, utilizing an already trained model (trained on the secondary dataset).
 
-The *notebooks/5_transfer_learning.ipynb* file runs the state-of-the-art VGG16 model on the main dataset and gets the test accuracies.
+The `notebooks/5_transfer_learning.ipynb` file runs the state-of-the-art VGG16 model on the main dataset and gets the test accuracies.
 
-> The *helpers/plot_graphs.py* is a python script which plots training and validation accuracy and loss graphs, and it is used in all the models in the notebooks in the *notebooks/* folder.
+> The `helpers/plot_graphs.py` is a python script which plots training and validation accuracy and loss graphs, and it is used in all the models in the notebooks in the `notebooks/` folder.
 
-> The *html_exports/* folder contains the *html* exports of the notebooks, and all the work can be viewed without having to run any of the notebooks.
+> The `html_exports/` folder contains the **html** exports of the notebooks, and all the work can be viewed without having to run any of the notebooks.
