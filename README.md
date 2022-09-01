@@ -53,6 +53,13 @@ The `notebooks/5_transfer_learning.ipynb` file details the experiment with using
 
 The `notebooks/5_transfer_learning.ipynb` file runs the state-of-the-art VGG16 model on the main dataset and gets the test accuracies.
 
+### Results
+
+|    | Model          | Test Accuracy |
+|----|----------------|---------------|
+| 1. | Proposed Model | 93.96%        |
+| 2. | Best Model     | 95.83%        |
+
 > The `helpers/plot_graphs.py` is a python script which plots training and validation accuracy and loss graphs, and it is used in all the models in the notebooks in the `notebooks/` folder.
 
 > The `html_exports/` folder contains the **html** exports of the notebooks, and all the work can be viewed there.
