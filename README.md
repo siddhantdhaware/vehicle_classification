@@ -1,4 +1,4 @@
-# Vehicle Classification
+# Vehicle Type Classification using Deep Learning
 
 ## CM3070 Computer Science Final Project
 
