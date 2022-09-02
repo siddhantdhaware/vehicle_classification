@@ -2,6 +2,8 @@
 
 ## CM3070 Computer Science Final Project
 
+## BSc Computer Science - University of London
+
 ## Siddhant Dhaware (190305701)
 
 ------
